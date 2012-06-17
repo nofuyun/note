@@ -1,0 +1,53 @@
+[17-Jun-2012 13:22:07] PHP Parse error:  syntax error, unexpected '.' in D:\www\note\core\controller.php on line 65
+[17-Jun-2012 13:22:07] PHP Stack trace:
+[17-Jun-2012 13:22:07] PHP   1. {main}() D:\www\note\index.php:0
+[17-Jun-2012 13:22:07] PHP   2. FrameWork->run() D:\www\note\index.php:37
+[17-Jun-2012 13:22:07] PHP   3. FrameWork->dispatch() D:\www\note\core\framework.php:110
+[17-Jun-2012 13:22:07] PHP   4. class_exists() D:\www\note\core\framework.php:39
+[17-Jun-2012 13:22:07] PHP   5. FrameWork->autoload() D:\www\note\core\framework.php:0
+[17-Jun-2012 13:22:07] PHP   6. require() D:\www\note\core\framework.php:79
+[17-Jun-2012 13:22:07] PHP   7. FrameWork->autoload() D:\www\note\core\framework.php:0
+[17-Jun-2012 13:23:43] PHP Parse error:  syntax error, unexpected '.' in D:\www\note\core\controller.php on line 65
+[17-Jun-2012 13:23:43] PHP Stack trace:
+[17-Jun-2012 13:23:43] PHP   1. {main}() D:\www\note\index.php:0
+[17-Jun-2012 13:23:43] PHP   2. FrameWork->run() D:\www\note\index.php:38
+[17-Jun-2012 13:23:43] PHP   3. FrameWork->dispatch() D:\www\note\core\framework.php:110
+[17-Jun-2012 13:23:43] PHP   4. class_exists() D:\www\note\core\framework.php:39
+[17-Jun-2012 13:23:43] PHP   5. FrameWork->autoload() D:\www\note\core\framework.php:0
+[17-Jun-2012 13:23:43] PHP   6. require() D:\www\note\core\framework.php:79
+[17-Jun-2012 13:23:43] PHP   7. FrameWork->autoload() D:\www\note\core\framework.php:0
+[17-Jun-2012 13:26:44] PHP Parse error:  syntax error, unexpected '.' in D:\www\note\core\controller.php on line 65
+[17-Jun-2012 13:26:44] PHP Stack trace:
+[17-Jun-2012 13:26:44] PHP   1. {main}() D:\www\note\index.php:0
+[17-Jun-2012 13:26:44] PHP   2. FrameWork->run() D:\www\note\index.php:38
+[17-Jun-2012 13:26:44] PHP   3. FrameWork->dispatch() D:\www\note\core\framework.php:110
+[17-Jun-2012 13:26:44] PHP   4. class_exists() D:\www\note\core\framework.php:39
+[17-Jun-2012 13:26:44] PHP   5. FrameWork->autoload() D:\www\note\core\framework.php:0
+[17-Jun-2012 13:26:44] PHP   6. require() D:\www\note\core\framework.php:79
+[17-Jun-2012 13:26:44] PHP   7. FrameWork->autoload() D:\www\note\core\framework.php:0
+[17-Jun-2012 13:26:59] PHP Parse error:  syntax error, unexpected '.' in D:\www\note\core\controller.php on line 65
+[17-Jun-2012 13:26:59] PHP Stack trace:
+[17-Jun-2012 13:26:59] PHP   1. {main}() D:\www\note\index.php:0
+[17-Jun-2012 13:26:59] PHP   2. FrameWork->run() D:\www\note\index.php:38
+[17-Jun-2012 13:26:59] PHP   3. FrameWork->dispatch() D:\www\note\core\framework.php:110
+[17-Jun-2012 13:26:59] PHP   4. class_exists() D:\www\note\core\framework.php:39
+[17-Jun-2012 13:26:59] PHP   5. FrameWork->autoload() D:\www\note\core\framework.php:0
+[17-Jun-2012 13:26:59] PHP   6. require() D:\www\note\core\framework.php:79
+[17-Jun-2012 13:26:59] PHP   7. FrameWork->autoload() D:\www\note\core\framework.php:0
+[17-Jun-2012 13:29:04] PHP Parse error:  syntax error, unexpected '.' in D:\www\note\core\controller.php on line 65
+[17-Jun-2012 13:29:04] PHP Stack trace:
+[17-Jun-2012 13:29:04] PHP   1. {main}() D:\www\note\index.php:0
+[17-Jun-2012 13:29:04] PHP   2. FrameWork->run() D:\www\note\index.php:38
+[17-Jun-2012 13:29:04] PHP   3. FrameWork->dispatch() D:\www\note\core\framework.php:110
+[17-Jun-2012 13:29:04] PHP   4. class_exists() D:\www\note\core\framework.php:39
+[17-Jun-2012 13:29:04] PHP   5. FrameWork->autoload() D:\www\note\core\framework.php:0
+[17-Jun-2012 13:29:04] PHP   6. require() D:\www\note\core\framework.php:79
+[17-Jun-2012 13:29:04] PHP   7. FrameWork->autoload() D:\www\note\core\framework.php:0
+[17-Jun-2012 16:43:13] PHP Fatal error:  Call to undefined method Sqlite::fetch() in D:\www\note\application\models\blog.php on line 46
+[17-Jun-2012 16:43:13] PHP Stack trace:
+[17-Jun-2012 16:43:13] PHP   1. {main}() D:\www\note\index.php:0
+[17-Jun-2012 16:43:13] PHP   2. FrameWork->run() D:\www\note\index.php:37
+[17-Jun-2012 16:43:13] PHP   3. FrameWork->dispatch() D:\www\note\core\framework.php:110
+[17-Jun-2012 16:43:13] PHP   4. call_user_func_array() D:\www\note\core\framework.php:45
+[17-Jun-2012 16:43:13] PHP   5. Blog_Controller->editAction() D:\www\note\core\framework.php:0
+[17-Jun-2012 16:43:13] PHP   6. Blog_Model->show() D:\www\note\application\controllers\blog.php:37

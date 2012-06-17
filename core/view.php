@@ -10,12 +10,12 @@ class View {
      * @param string $layout_file 布局文件
      */
     static public function render($template_file,$value_array,$layout_file) {
-        $template_file = TEMPLATE_PATH.$template_file;
+        $template_file = TEMPLATE_PATH.$template_file.'.php';
         if(!file_exists($template_file)) {
             return;
         }
 
-        $layout_file = TEMPLATE_PATH.'layouts/'.$layout_file;
+        $layout_file = TEMPLATE_PATH.'layout/'.$layout_file.'.php';
         if($layout_file and !file_exists($layout_file)) {
             return;
         }

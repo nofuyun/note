@@ -14,7 +14,7 @@ class Sqlite {
      * @param string $dbsetting 选择数据库配置文件里的指定的配置
      * @return object Database实例
      */
-    static public function load($dbsetting='local.sqlite') {
+    static public function load($dbsetting='common.sqlite') {
         static $obj;
         if(!$obj)
             $obj = new Sqlite($dbsetting);
@@ -35,7 +35,6 @@ class Sqlite {
             return $this;
         $dbconfig = Config::get($dbsetting);
         $dsn = "sqlite:".Db_PATH."testdrive.db";//{$dbconfig['host']}
-        echo $dsn;
         $dbh = new PDO($dsn, null, null, array(PDO::ATTR_PERSISTENT =>true));
         self::$dbh = $dbh;
     }

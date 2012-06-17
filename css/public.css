@@ -1,0 +1,23 @@
+@CHARSET "UTF-8";
+body { 
+margin: 0px;
+font-size: 12px;
+font-family: "宋体";
+color: 
+#333;
+background: 
+white;
+text-align: center;
+word-break: break-all;
+word-wrap: break-word;
+display: block;
+}
+
+#container {margin:0 auto; width:100%;}
+#header { height:100px; background:#9c6; margin-bottom:5px;}
+#menu { height:30px; background:#693; margin-bottom:5px;}
+#mainContent { height:500px; margin-bottom:5px;}
+#sidebar { float:right; width:200px; height:500px; background:#cf9;}
+#sidebar ul{margin:0px;padding:0px;list-style-position: inside}
+#sidebar ul li{margin:0px;padding:0px;text-align:left;margin-left:10px;}
+#content { margin-right:205px !important; margin-right:202px; height:500px; background:#ffa;}

@@ -21,9 +21,10 @@ class Blog_Model extends Model {
 
     public function edit($post) {
         $table = 'blog';
-        $set = "title=:title,class_id=:class_id,content=:content";
-        $where = "`id`=:id";
-        $flag = $this->dbconnect->update($table, $set, $where, $post);
+        $set = "title=?,class_id=?,content=?";
+        $where = "id=?";
+        $data=array($post['title'],$post['class_id'],$post['content'],$post['id']);
+        $flag = $this->dbconnect->update($table, $set, $where, $data);
         return $flag;
     }
 
@@ -43,16 +44,16 @@ class Blog_Model extends Model {
     public function show($id) {
         $sql = "select b.id,b.title,b.inputtime,b.content,b.class_id,c.name from blog b,blog_class c where b.class_id=c.id and b.id=:id";
         $this->dbconnect->query($sql, array('id' => $id));
-        return $this->dbconnect->fetch_all();
+        return $this->dbconnect->fetch_row();
     }
 
-    public function createClass() {
+    public function createClass($post) {
         $table = 'blog_class';
         $return_id = $this->dbconnect->insertGetLastID($table, $post);
         return $return_id;
     }
 
-    public function editClass() {
+    public function editClass($post) {
         $table = 'blog_class';
         $set = "`name`=:name";
         $where = "`id`=:id";
@@ -60,7 +61,7 @@ class Blog_Model extends Model {
         return $flag;
     }
 
-    public function deleteClass() {
+    public function deleteClass($id) {
         $table = 'blog_class';
         $where = "`id`=:id";
         $flag = $this->dbconnect->delete($table, $where, array('id' => $id));

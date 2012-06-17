@@ -42,5 +42,30 @@ class Controller
 		//解析模板
 		return $view->render($template_file, $value_array, $layout, $output);
 	}
+	//检查表单的字段不能为空
+	public function checkForm($arrKey,$array){
+		 $arr=array();
+		 $arrkey1=array_keys($array);
+		 foreach($arrKey as $val){
+		 	if(in_array($val,$arrkey1)&& !empty($array[$val])){
+		 		$arr[$val]=$array[$val];
+		 	}else{
+		 		return false;
+		 	}
+		 }
+		 return $arr;
+	}
+	public function redirect($view) {
+		echo '<html> 
+<head> 
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf8"> 
+<title></title> 
+</head> 
+<body> 
+<meta http-equiv="refresh" content="0.1;url='.APP_URL. '?action='.$view.'"> 
+</body> 
+</html>';
+		exit ();
+	}
 }
 ?>

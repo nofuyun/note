@@ -1,0 +1,150 @@
+[16-Jun-2012 19:14:56] PHP Parse error:  syntax error, unexpected $end in D:\www\note\application\template\blog.php on line 2
+[16-Jun-2012 19:14:56] PHP Stack trace:
+[16-Jun-2012 19:14:56] PHP   1. {main}() D:\www\note\index.php:0
+[16-Jun-2012 19:14:56] PHP   2. FrameWork->run() D:\www\note\index.php:37
+[16-Jun-2012 19:14:56] PHP   3. FrameWork->dispatch() D:\www\note\core\framework.php:110
+[16-Jun-2012 19:14:56] PHP   4. call_user_func_array() D:\www\note\core\framework.php:45
+[16-Jun-2012 19:14:56] PHP   5. Blog_Controller->indexAction() D:\www\note\core\framework.php:0
+[16-Jun-2012 19:14:56] PHP   6. Controller->load_view() D:\www\note\application\controllers\blog.php:23
+[16-Jun-2012 19:14:56] PHP   7. View::render() D:\www\note\core\controller.php:43
+[16-Jun-2012 19:14:56] PHP   8. include() D:\www\note\core\view.php:25
+[16-Jun-2012 19:15:33] PHP Parse error:  syntax error, unexpected $end in D:\www\note\application\template\blog.php on line 2
+[16-Jun-2012 19:15:33] PHP Stack trace:
+[16-Jun-2012 19:15:33] PHP   1. {main}() D:\www\note\index.php:0
+[16-Jun-2012 19:15:33] PHP   2. FrameWork->run() D:\www\note\index.php:37
+[16-Jun-2012 19:15:33] PHP   3. FrameWork->dispatch() D:\www\note\core\framework.php:110
+[16-Jun-2012 19:15:33] PHP   4. call_user_func_array() D:\www\note\core\framework.php:45
+[16-Jun-2012 19:15:33] PHP   5. Blog_Controller->indexAction() D:\www\note\core\framework.php:0
+[16-Jun-2012 19:15:33] PHP   6. Controller->load_view() D:\www\note\application\controllers\blog.php:23
+[16-Jun-2012 19:15:33] PHP   7. View::render() D:\www\note\core\controller.php:43
+[16-Jun-2012 19:15:33] PHP   8. include() D:\www\note\core\view.php:25
+[16-Jun-2012 19:15:48] PHP Parse error:  syntax error, unexpected $end in D:\www\note\application\template\blog.php on line 2
+[16-Jun-2012 19:15:48] PHP Stack trace:
+[16-Jun-2012 19:15:48] PHP   1. {main}() D:\www\note\index.php:0
+[16-Jun-2012 19:15:48] PHP   2. FrameWork->run() D:\www\note\index.php:37
+[16-Jun-2012 19:15:48] PHP   3. FrameWork->dispatch() D:\www\note\core\framework.php:110
+[16-Jun-2012 19:15:48] PHP   4. call_user_func_array() D:\www\note\core\framework.php:45
+[16-Jun-2012 19:15:48] PHP   5. Blog_Controller->indexAction() D:\www\note\core\framework.php:0
+[16-Jun-2012 19:15:48] PHP   6. Controller->load_view() D:\www\note\application\controllers\blog.php:23
+[16-Jun-2012 19:15:48] PHP   7. View::render() D:\www\note\core\controller.php:43
+[16-Jun-2012 19:15:48] PHP   8. include() D:\www\note\core\view.php:25
+[16-Jun-2012 19:15:49] PHP Parse error:  syntax error, unexpected $end in D:\www\note\application\template\blog.php on line 2
+[16-Jun-2012 19:15:49] PHP Stack trace:
+[16-Jun-2012 19:15:49] PHP   1. {main}() D:\www\note\index.php:0
+[16-Jun-2012 19:15:49] PHP   2. FrameWork->run() D:\www\note\index.php:37
+[16-Jun-2012 19:15:49] PHP   3. FrameWork->dispatch() D:\www\note\core\framework.php:110
+[16-Jun-2012 19:15:49] PHP   4. call_user_func_array() D:\www\note\core\framework.php:45
+[16-Jun-2012 19:15:49] PHP   5. Blog_Controller->indexAction() D:\www\note\core\framework.php:0
+[16-Jun-2012 19:15:49] PHP   6. Controller->load_view() D:\www\note\application\controllers\blog.php:23
+[16-Jun-2012 19:15:49] PHP   7. View::render() D:\www\note\core\controller.php:43
+[16-Jun-2012 19:15:49] PHP   8. include() D:\www\note\core\view.php:25
+[16-Jun-2012 19:15:49] PHP Parse error:  syntax error, unexpected $end in D:\www\note\application\template\blog.php on line 2
+[16-Jun-2012 19:15:49] PHP Stack trace:
+[16-Jun-2012 19:15:49] PHP   1. {main}() D:\www\note\index.php:0
+[16-Jun-2012 19:15:49] PHP   2. FrameWork->run() D:\www\note\index.php:37
+[16-Jun-2012 19:15:49] PHP   3. FrameWork->dispatch() D:\www\note\core\framework.php:110
+[16-Jun-2012 19:15:49] PHP   4. call_user_func_array() D:\www\note\core\framework.php:45
+[16-Jun-2012 19:15:49] PHP   5. Blog_Controller->indexAction() D:\www\note\core\framework.php:0
+[16-Jun-2012 19:15:49] PHP   6. Controller->load_view() D:\www\note\application\controllers\blog.php:23
+[16-Jun-2012 19:15:49] PHP   7. View::render() D:\www\note\core\controller.php:43
+[16-Jun-2012 19:15:49] PHP   8. include() D:\www\note\core\view.php:25
+[16-Jun-2012 19:15:49] PHP Parse error:  syntax error, unexpected $end in D:\www\note\application\template\blog.php on line 2
+[16-Jun-2012 19:15:49] PHP Stack trace:
+[16-Jun-2012 19:15:49] PHP   1. {main}() D:\www\note\index.php:0
+[16-Jun-2012 19:15:49] PHP   2. FrameWork->run() D:\www\note\index.php:37
+[16-Jun-2012 19:15:49] PHP   3. FrameWork->dispatch() D:\www\note\core\framework.php:110
+[16-Jun-2012 19:15:49] PHP   4. call_user_func_array() D:\www\note\core\framework.php:45
+[16-Jun-2012 19:15:49] PHP   5. Blog_Controller->indexAction() D:\www\note\core\framework.php:0
+[16-Jun-2012 19:15:49] PHP   6. Controller->load_view() D:\www\note\application\controllers\blog.php:23
+[16-Jun-2012 19:15:49] PHP   7. View::render() D:\www\note\core\controller.php:43
+[16-Jun-2012 19:15:49] PHP   8. include() D:\www\note\core\view.php:25
+[16-Jun-2012 19:15:49] PHP Parse error:  syntax error, unexpected $end in D:\www\note\application\template\blog.php on line 2
+[16-Jun-2012 19:15:49] PHP Stack trace:
+[16-Jun-2012 19:15:49] PHP   1. {main}() D:\www\note\index.php:0
+[16-Jun-2012 19:15:49] PHP   2. FrameWork->run() D:\www\note\index.php:37
+[16-Jun-2012 19:15:49] PHP   3. FrameWork->dispatch() D:\www\note\core\framework.php:110
+[16-Jun-2012 19:15:49] PHP   4. call_user_func_array() D:\www\note\core\framework.php:45
+[16-Jun-2012 19:15:49] PHP   5. Blog_Controller->indexAction() D:\www\note\core\framework.php:0
+[16-Jun-2012 19:15:49] PHP   6. Controller->load_view() D:\www\note\application\controllers\blog.php:23
+[16-Jun-2012 19:15:49] PHP   7. View::render() D:\www\note\core\controller.php:43
+[16-Jun-2012 19:15:49] PHP   8. include() D:\www\note\core\view.php:25
+[16-Jun-2012 19:15:49] PHP Parse error:  syntax error, unexpected $end in D:\www\note\application\template\blog.php on line 2
+[16-Jun-2012 19:15:49] PHP Stack trace:
+[16-Jun-2012 19:15:49] PHP   1. {main}() D:\www\note\index.php:0
+[16-Jun-2012 19:15:49] PHP   2. FrameWork->run() D:\www\note\index.php:37
+[16-Jun-2012 19:15:49] PHP   3. FrameWork->dispatch() D:\www\note\core\framework.php:110
+[16-Jun-2012 19:15:49] PHP   4. call_user_func_array() D:\www\note\core\framework.php:45
+[16-Jun-2012 19:15:49] PHP   5. Blog_Controller->indexAction() D:\www\note\core\framework.php:0
+[16-Jun-2012 19:15:49] PHP   6. Controller->load_view() D:\www\note\application\controllers\blog.php:23
+[16-Jun-2012 19:15:49] PHP   7. View::render() D:\www\note\core\controller.php:43
+[16-Jun-2012 19:15:49] PHP   8. include() D:\www\note\core\view.php:25
+[16-Jun-2012 19:15:49] PHP Parse error:  syntax error, unexpected $end in D:\www\note\application\template\blog.php on line 2
+[16-Jun-2012 19:15:49] PHP Stack trace:
+[16-Jun-2012 19:15:49] PHP   1. {main}() D:\www\note\index.php:0
+[16-Jun-2012 19:15:49] PHP   2. FrameWork->run() D:\www\note\index.php:37
+[16-Jun-2012 19:15:49] PHP   3. FrameWork->dispatch() D:\www\note\core\framework.php:110
+[16-Jun-2012 19:15:49] PHP   4. call_user_func_array() D:\www\note\core\framework.php:45
+[16-Jun-2012 19:15:49] PHP   5. Blog_Controller->indexAction() D:\www\note\core\framework.php:0
+[16-Jun-2012 19:15:49] PHP   6. Controller->load_view() D:\www\note\application\controllers\blog.php:23
+[16-Jun-2012 19:15:49] PHP   7. View::render() D:\www\note\core\controller.php:43
+[16-Jun-2012 19:15:49] PHP   8. include() D:\www\note\core\view.php:25
+[16-Jun-2012 19:15:49] PHP Parse error:  syntax error, unexpected $end in D:\www\note\application\template\blog.php on line 2
+[16-Jun-2012 19:15:49] PHP Stack trace:
+[16-Jun-2012 19:15:49] PHP   1. {main}() D:\www\note\index.php:0
+[16-Jun-2012 19:15:49] PHP   2. FrameWork->run() D:\www\note\index.php:37
+[16-Jun-2012 19:15:49] PHP   3. FrameWork->dispatch() D:\www\note\core\framework.php:110
+[16-Jun-2012 19:15:49] PHP   4. call_user_func_array() D:\www\note\core\framework.php:45
+[16-Jun-2012 19:15:49] PHP   5. Blog_Controller->indexAction() D:\www\note\core\framework.php:0
+[16-Jun-2012 19:15:49] PHP   6. Controller->load_view() D:\www\note\application\controllers\blog.php:23
+[16-Jun-2012 19:15:49] PHP   7. View::render() D:\www\note\core\controller.php:43
+[16-Jun-2012 19:15:49] PHP   8. include() D:\www\note\core\view.php:25
+[16-Jun-2012 19:15:50] PHP Parse error:  syntax error, unexpected $end in D:\www\note\application\template\blog.php on line 2
+[16-Jun-2012 19:15:50] PHP Stack trace:
+[16-Jun-2012 19:15:50] PHP   1. {main}() D:\www\note\index.php:0
+[16-Jun-2012 19:15:50] PHP   2. FrameWork->run() D:\www\note\index.php:37
+[16-Jun-2012 19:15:50] PHP   3. FrameWork->dispatch() D:\www\note\core\framework.php:110
+[16-Jun-2012 19:15:50] PHP   4. call_user_func_array() D:\www\note\core\framework.php:45
+[16-Jun-2012 19:15:50] PHP   5. Blog_Controller->indexAction() D:\www\note\core\framework.php:0
+[16-Jun-2012 19:15:50] PHP   6. Controller->load_view() D:\www\note\application\controllers\blog.php:23
+[16-Jun-2012 19:15:50] PHP   7. View::render() D:\www\note\core\controller.php:43
+[16-Jun-2012 19:15:50] PHP   8. include() D:\www\note\core\view.php:25
+[16-Jun-2012 19:15:50] PHP Parse error:  syntax error, unexpected $end in D:\www\note\application\template\blog.php on line 2
+[16-Jun-2012 19:15:50] PHP Stack trace:
+[16-Jun-2012 19:15:50] PHP   1. {main}() D:\www\note\index.php:0
+[16-Jun-2012 19:15:50] PHP   2. FrameWork->run() D:\www\note\index.php:37
+[16-Jun-2012 19:15:50] PHP   3. FrameWork->dispatch() D:\www\note\core\framework.php:110
+[16-Jun-2012 19:15:50] PHP   4. call_user_func_array() D:\www\note\core\framework.php:45
+[16-Jun-2012 19:15:50] PHP   5. Blog_Controller->indexAction() D:\www\note\core\framework.php:0
+[16-Jun-2012 19:15:50] PHP   6. Controller->load_view() D:\www\note\application\controllers\blog.php:23
+[16-Jun-2012 19:15:50] PHP   7. View::render() D:\www\note\core\controller.php:43
+[16-Jun-2012 19:15:50] PHP   8. include() D:\www\note\core\view.php:25
+[16-Jun-2012 19:15:50] PHP Parse error:  syntax error, unexpected $end in D:\www\note\application\template\blog.php on line 2
+[16-Jun-2012 19:15:50] PHP Stack trace:
+[16-Jun-2012 19:15:50] PHP   1. {main}() D:\www\note\index.php:0
+[16-Jun-2012 19:15:50] PHP   2. FrameWork->run() D:\www\note\index.php:37
+[16-Jun-2012 19:15:50] PHP   3. FrameWork->dispatch() D:\www\note\core\framework.php:110
+[16-Jun-2012 19:15:50] PHP   4. call_user_func_array() D:\www\note\core\framework.php:45
+[16-Jun-2012 19:15:50] PHP   5. Blog_Controller->indexAction() D:\www\note\core\framework.php:0
+[16-Jun-2012 19:15:50] PHP   6. Controller->load_view() D:\www\note\application\controllers\blog.php:23
+[16-Jun-2012 19:15:50] PHP   7. View::render() D:\www\note\core\controller.php:43
+[16-Jun-2012 19:15:50] PHP   8. include() D:\www\note\core\view.php:25
+[16-Jun-2012 19:15:50] PHP Parse error:  syntax error, unexpected $end in D:\www\note\application\template\blog.php on line 2
+[16-Jun-2012 19:15:50] PHP Stack trace:
+[16-Jun-2012 19:15:50] PHP   1. {main}() D:\www\note\index.php:0
+[16-Jun-2012 19:15:50] PHP   2. FrameWork->run() D:\www\note\index.php:37
+[16-Jun-2012 19:15:50] PHP   3. FrameWork->dispatch() D:\www\note\core\framework.php:110
+[16-Jun-2012 19:15:50] PHP   4. call_user_func_array() D:\www\note\core\framework.php:45
+[16-Jun-2012 19:15:50] PHP   5. Blog_Controller->indexAction() D:\www\note\core\framework.php:0
+[16-Jun-2012 19:15:50] PHP   6. Controller->load_view() D:\www\note\application\controllers\blog.php:23
+[16-Jun-2012 19:15:50] PHP   7. View::render() D:\www\note\core\controller.php:43
+[16-Jun-2012 19:15:50] PHP   8. include() D:\www\note\core\view.php:25
+[16-Jun-2012 19:15:50] PHP Parse error:  syntax error, unexpected $end in D:\www\note\application\template\blog.php on line 2
+[16-Jun-2012 19:15:50] PHP Stack trace:
+[16-Jun-2012 19:15:50] PHP   1. {main}() D:\www\note\index.php:0
+[16-Jun-2012 19:15:50] PHP   2. FrameWork->run() D:\www\note\index.php:37
+[16-Jun-2012 19:15:50] PHP   3. FrameWork->dispatch() D:\www\note\core\framework.php:110
+[16-Jun-2012 19:15:50] PHP   4. call_user_func_array() D:\www\note\core\framework.php:45
+[16-Jun-2012 19:15:50] PHP   5. Blog_Controller->indexAction() D:\www\note\core\framework.php:0
+[16-Jun-2012 19:15:50] PHP   6. Controller->load_view() D:\www\note\application\controllers\blog.php:23
+[16-Jun-2012 19:15:50] PHP   7. View::render() D:\www\note\core\controller.php:43
+[16-Jun-2012 19:15:50] PHP   8. include() D:\www\note\core\view.php:25

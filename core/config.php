@@ -37,11 +37,11 @@ class Config {
     /**
      * Overloading function, can't call direct
      */
-    private function __set($tag, $value) {
+    public function __set($tag, $value) {
         $this->$tag = $value;
     }
 
-    private function __get($tag) {
+    public function __get($tag) {
         return $this->$tag;
     }
 }

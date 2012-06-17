@@ -8,7 +8,7 @@ function init(){
     define('MODEL_PATH', APP_PATH.'models'.DIRECTORY_SEPARATOR);
     define('CONTROLLER_PATH', APP_PATH.'controllers'.DIRECTORY_SEPARATOR);
     define('VIEW_PATH', APP_PATH.'views'.DIRECTORY_SEPARATOR);
-    define('TEMPLATE_PATH', APP_PATH.'templates'.DIRECTORY_SEPARATOR);
+    define('TEMPLATE_PATH', APP_PATH.'template'.DIRECTORY_SEPARATOR);
     define('LIBRARY_PATH', APP_PATH.'libraries'.DIRECTORY_SEPARATOR);
     define('EVENT_PATH', APP_PATH.'events'.DIRECTORY_SEPARATOR);
     define('CONFIG_PATH', APP_PATH.'config'.DIRECTORY_SEPARATOR);

@@ -1,0 +1,180 @@
+2012-06-16 19:10:37 [2] The magic method __set() must have public visibility and cannot be static<br /> 40 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:10:37 [2] The magic method __get() must have public visibility and cannot be static<br /> 44 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:10:37 [2] include(D:\www\note\application\config\local.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory<br /> 20 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:10:37 [2] include() [<a href='function.include'>function.include</a>]: Failed opening 'D:\www\note\application\config\local.php' for inclusion (include_path='.;C:\php\pear')<br /> 20 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:10:37 [2] Invalid argument supplied for foreach()<br /> 21 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:11:17 [2] The magic method __set() must have public visibility and cannot be static<br /> 40 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:11:17 [2] The magic method __get() must have public visibility and cannot be static<br /> 44 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:11:17 [2] include(D:\www\note\application\config\local.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory<br /> 20 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:11:17 [2] include() [<a href='function.include'>function.include</a>]: Failed opening 'D:\www\note\application\config\local.php' for inclusion (include_path='.;C:\php\pear')<br /> 20 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:11:17 [2] Invalid argument supplied for foreach()<br /> 21 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:14:55 [2] The magic method __set() must have public visibility and cannot be static<br /> 40 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:14:55 [2] The magic method __get() must have public visibility and cannot be static<br /> 44 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:14:55 [2] include(D:\www\note\application\config\local.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory<br /> 20 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:14:55 [2] include() [<a href='function.include'>function.include</a>]: Failed opening 'D:\www\note\application\config\local.php' for inclusion (include_path='.;C:\php\pear')<br /> 20 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:14:55 [2] Invalid argument supplied for foreach()<br /> 21 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:33 [2] The magic method __set() must have public visibility and cannot be static<br /> 40 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:33 [2] The magic method __get() must have public visibility and cannot be static<br /> 44 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:33 [2] include(D:\www\note\application\config\local.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory<br /> 20 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:33 [2] include() [<a href='function.include'>function.include</a>]: Failed opening 'D:\www\note\application\config\local.php' for inclusion (include_path='.;C:\php\pear')<br /> 20 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:33 [2] Invalid argument supplied for foreach()<br /> 21 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:48 [2] The magic method __set() must have public visibility and cannot be static<br /> 40 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:48 [2] The magic method __get() must have public visibility and cannot be static<br /> 44 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:48 [2] include(D:\www\note\application\config\local.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory<br /> 20 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:48 [2] include() [<a href='function.include'>function.include</a>]: Failed opening 'D:\www\note\application\config\local.php' for inclusion (include_path='.;C:\php\pear')<br /> 20 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:48 [2] Invalid argument supplied for foreach()<br /> 21 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:48 [2] The magic method __set() must have public visibility and cannot be static<br /> 40 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:48 [2] The magic method __get() must have public visibility and cannot be static<br /> 44 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:48 [2] include(D:\www\note\application\config\local.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory<br /> 20 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:48 [2] include() [<a href='function.include'>function.include</a>]: Failed opening 'D:\www\note\application\config\local.php' for inclusion (include_path='.;C:\php\pear')<br /> 20 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:48 [2] Invalid argument supplied for foreach()<br /> 21 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:49 [2] The magic method __set() must have public visibility and cannot be static<br /> 40 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:49 [2] The magic method __get() must have public visibility and cannot be static<br /> 44 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:49 [2] include(D:\www\note\application\config\local.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory<br /> 20 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:49 [2] include() [<a href='function.include'>function.include</a>]: Failed opening 'D:\www\note\application\config\local.php' for inclusion (include_path='.;C:\php\pear')<br /> 20 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:49 [2] Invalid argument supplied for foreach()<br /> 21 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:49 [2] The magic method __set() must have public visibility and cannot be static<br /> 40 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:49 [2] The magic method __get() must have public visibility and cannot be static<br /> 44 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:49 [2] include(D:\www\note\application\config\local.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory<br /> 20 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:49 [2] include() [<a href='function.include'>function.include</a>]: Failed opening 'D:\www\note\application\config\local.php' for inclusion (include_path='.;C:\php\pear')<br /> 20 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:49 [2] Invalid argument supplied for foreach()<br /> 21 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:49 [2] The magic method __set() must have public visibility and cannot be static<br /> 40 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:49 [2] The magic method __get() must have public visibility and cannot be static<br /> 44 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:49 [2] include(D:\www\note\application\config\local.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory<br /> 20 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:49 [2] include() [<a href='function.include'>function.include</a>]: Failed opening 'D:\www\note\application\config\local.php' for inclusion (include_path='.;C:\php\pear')<br /> 20 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:49 [2] Invalid argument supplied for foreach()<br /> 21 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:49 [2] The magic method __set() must have public visibility and cannot be static<br /> 40 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:49 [2] The magic method __get() must have public visibility and cannot be static<br /> 44 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:49 [2] include(D:\www\note\application\config\local.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory<br /> 20 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:49 [2] include() [<a href='function.include'>function.include</a>]: Failed opening 'D:\www\note\application\config\local.php' for inclusion (include_path='.;C:\php\pear')<br /> 20 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:49 [2] Invalid argument supplied for foreach()<br /> 21 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:49 [2] The magic method __set() must have public visibility and cannot be static<br /> 40 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:49 [2] The magic method __get() must have public visibility and cannot be static<br /> 44 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:49 [2] include(D:\www\note\application\config\local.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory<br /> 20 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:49 [2] include() [<a href='function.include'>function.include</a>]: Failed opening 'D:\www\note\application\config\local.php' for inclusion (include_path='.;C:\php\pear')<br /> 20 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:49 [2] Invalid argument supplied for foreach()<br /> 21 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:49 [2] The magic method __set() must have public visibility and cannot be static<br /> 40 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:49 [2] The magic method __get() must have public visibility and cannot be static<br /> 44 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:49 [2] include(D:\www\note\application\config\local.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory<br /> 20 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:49 [2] include() [<a href='function.include'>function.include</a>]: Failed opening 'D:\www\note\application\config\local.php' for inclusion (include_path='.;C:\php\pear')<br /> 20 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:49 [2] Invalid argument supplied for foreach()<br /> 21 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:49 [2] The magic method __set() must have public visibility and cannot be static<br /> 40 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:49 [2] The magic method __get() must have public visibility and cannot be static<br /> 44 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:49 [2] include(D:\www\note\application\config\local.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory<br /> 20 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:49 [2] include() [<a href='function.include'>function.include</a>]: Failed opening 'D:\www\note\application\config\local.php' for inclusion (include_path='.;C:\php\pear')<br /> 20 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:49 [2] Invalid argument supplied for foreach()<br /> 21 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:50 [2] The magic method __set() must have public visibility and cannot be static<br /> 40 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:50 [2] The magic method __get() must have public visibility and cannot be static<br /> 44 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:50 [2] include(D:\www\note\application\config\local.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory<br /> 20 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:50 [2] include() [<a href='function.include'>function.include</a>]: Failed opening 'D:\www\note\application\config\local.php' for inclusion (include_path='.;C:\php\pear')<br /> 20 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:50 [2] Invalid argument supplied for foreach()<br /> 21 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:50 [2] The magic method __set() must have public visibility and cannot be static<br /> 40 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:50 [2] The magic method __get() must have public visibility and cannot be static<br /> 44 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:50 [2] include(D:\www\note\application\config\local.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory<br /> 20 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:50 [2] include() [<a href='function.include'>function.include</a>]: Failed opening 'D:\www\note\application\config\local.php' for inclusion (include_path='.;C:\php\pear')<br /> 20 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:50 [2] Invalid argument supplied for foreach()<br /> 21 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:50 [2] The magic method __set() must have public visibility and cannot be static<br /> 40 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:50 [2] The magic method __get() must have public visibility and cannot be static<br /> 44 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:50 [2] include(D:\www\note\application\config\local.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory<br /> 20 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:50 [2] include() [<a href='function.include'>function.include</a>]: Failed opening 'D:\www\note\application\config\local.php' for inclusion (include_path='.;C:\php\pear')<br /> 20 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:50 [2] Invalid argument supplied for foreach()<br /> 21 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:50 [2] The magic method __set() must have public visibility and cannot be static<br /> 40 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:50 [2] The magic method __get() must have public visibility and cannot be static<br /> 44 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:50 [2] include(D:\www\note\application\config\local.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory<br /> 20 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:50 [2] include() [<a href='function.include'>function.include</a>]: Failed opening 'D:\www\note\application\config\local.php' for inclusion (include_path='.;C:\php\pear')<br /> 20 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:15:50 [2] Invalid argument supplied for foreach()<br /> 21 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:16:36 [2] The magic method __set() must have public visibility and cannot be static<br /> 40 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:16:36 [2] The magic method __get() must have public visibility and cannot be static<br /> 44 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:16:36 [2] include(D:\www\note\application\config\local.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory<br /> 20 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:16:36 [2] include() [<a href='function.include'>function.include</a>]: Failed opening 'D:\www\note\application\config\local.php' for inclusion (include_path='.;C:\php\pear')<br /> 20 in file D:\www\note\core\config.php 
+ <br /> 
+2012-06-16 19:16:36 [2] Invalid argument supplied for foreach()<br /> 21 in file D:\www\note\core\config.php 
+ <br /> 
