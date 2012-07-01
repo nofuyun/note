@@ -10,6 +10,8 @@ class View {
      * @param string $layout_file 布局文件
      */
     static public function render($template_file,$value_array,$layout_file) {
+    	$nowMenu=array_shift(explode('/', $template_file));
+//    	var_dump($nowMenu);
         $template_file = TEMPLATE_PATH.$template_file.'.php';
         if(!file_exists($template_file)) {
             return;

@@ -21,7 +21,8 @@ $controlers = array(
     'create'=>'blog',
     'edit'=>'blog',
     'delete'=>'blog',
-    'search'=>'blog'
+    'search'=>'blog',
+    'show'=>'blog'
   );
 
 if(!array_key_exists($actiontype, $controlers))

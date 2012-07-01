@@ -1,0 +1,10 @@
+[01-Jul-2012 16:42:59] PHP Parse error:  syntax error, unexpected T_VARIABLE in D:\www\note\application\template\blog\index.php on line 12
+[01-Jul-2012 16:42:59] PHP Stack trace:
+[01-Jul-2012 16:42:59] PHP   1. {main}() D:\www\note\index.php:0
+[01-Jul-2012 16:42:59] PHP   2. FrameWork->run() D:\www\note\index.php:38
+[01-Jul-2012 16:42:59] PHP   3. FrameWork->dispatch() D:\www\note\core\framework.php:110
+[01-Jul-2012 16:42:59] PHP   4. call_user_func_array() D:\www\note\core\framework.php:45
+[01-Jul-2012 16:42:59] PHP   5. Blog_Controller->indexAction() D:\www\note\core\framework.php:0
+[01-Jul-2012 16:42:59] PHP   6. Controller->load_view() D:\www\note\application\controllers\blog.php:18
+[01-Jul-2012 16:42:59] PHP   7. View::render() D:\www\note\core\controller.php:43
+[01-Jul-2012 16:42:59] PHP   8. include() D:\www\note\core\view.php:27

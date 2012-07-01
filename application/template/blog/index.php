@@ -1,28 +1,58 @@
-<div id="container">
-  <div id="header"><h1>技术日志</h1></div>
-  <div id="menu">This is the Menu</div>
-  <div id="mainContent">
-    <div id="sidebar">
-    <ul>       
-<?php foreach ($arrBlogClass as $key=>$val): ?>
-<li>
-<a href="<?php echo ''?>"><?php echo $val['name'];?></a>
-</li>
-<?php endforeach;?>
-        </ul> 
-    </div>
-    <div id="content">
-    <?php foreach ($arrBlog as $key=>$val):?>
-<?php $i=$key+1;?>
-<dl>
-<dd  id="<?php echo $val['id'];?>"><span class="left"><?php echo $i.'.  '.$val['title'];?></span><span 
+<script type="text/javascript">
+$.extend({
+	getBlogInfoById:function(id){
+		$.ajax({
+	        url:'/?action=show&id='+id,
+	        type:'get',
+	        dataType:'json',
+	        success:function(data){
+		        console.log(data.content);
+	            $("#content_"+id).html(data.content);
+	        }  
+	    });
+	}
+});
+$(function(){
+	$("div[id^='record_']").toggle(
+	    function(){
+           var arrSplit=$(this).attr('id').split('_');
+           var id=arrSplit[1];
+           $.getBlogInfoById(id);
+           $("#content_"+id).show();
+        },
+        function(){
+        	var arrSplit=$(this).attr('id').split('_');
+            var id=arrSplit[1];
+            $("#content_"+id).hide();  
+        }
+    )
+});
+</script>
+			<?php foreach ($arrBlog as $key=>$val):?>
+				 <div id="record_<?php echo $val['id'];?>">
+				 <h1><?php echo $val['id'].'.  '.$val['title'];?></h1>
+				<p class="post-footer">					
+<!--					<a href="index.html" class="readmore">Read more</a>-->
+<!--					<a href="index.html" class="comments">Comments (7)</a>-->
+					<span class="date"><?php echo date('Y-m-d H:i:s',$val['inputtime'])?></span>
+					<a href="/?action=edit&id=<?php echo $val['id'];?>">编辑</a>	
+				</p>
+                 <div id="content_<?php echo $val['id']?>"></div>
+				 </div>
+			<?php endforeach;?>	
+<!--				<h3>Example Form</h3>-->
+<!--				<form action="#">			-->
+<!--					<p>-->
+<!--					<label>Name</label>-->
+<!--					<input name="dname" value="Your Name" type="text" size="30" />-->
+<!--					<label>Email</label>-->
+<!--					<input name="demail" value="Your Email" type="text" size="30" />-->
+<!--					<label>Your Comments</label>-->
+<!--					<textarea rows="5" cols="5"></textarea>-->
+<!--					<br />	-->
+<!--					<input class="button" type="submit" />		-->
+<!--					</p>					-->
+<!--				</form>				-->		
 
-class="right"><?php echo date('Y-m-d H:i:s',$val['inputtime'])?></span>
-<a>编辑</a>
-</dd>
-<dt  id="<?php echo $val['id'];?>"></dt>
-</dl>
-<?php endforeach;?>
-    </div>
-  </div>
-</div>
+           
+		
