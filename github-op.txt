@@ -1,0 +1,41 @@
+1.ssh -vT git@github.com
+  --Check that you are connecting to the correct server
+    if Permission denied (publickey),then  create sshkey
+2.generating ssh keys
+   1)cd ~/.ssh
+   2) ls 
+      mkdir key_backup
+      cp id_rsa* key_backup
+      rm id_rsa*
+    3)ssh-keygen -t rsa -C "nofuyun@gmail.com"
+    4) --add your ssh key to github
+    5)--test everything out
+      ssh -T git@github.com
+3.fork A Repro
+  1. --fork the "tool" repo
+  2. --clone your fork
+     git clone git@github.com:nofuyun/tool.git
+  3. --configure remotes
+     cd tool
+     git remote add upstream git://github.com/nofuyun/tool.git
+     git fetch upstream
+  4. --Push commits
+     git push origin master
+     --Pull in upstream changes
+     git fetch upstream
+     git merge upstream/master
+ 4. commit  resource
+    git add index.php
+    git commit -m 'first commit'
+    
+    --push your commit
+    git remote add origin https://github.com/nofuyun/Hello-World.git
+    git push origin master
+ 5.git如何merge github forked repository里的更新?
+   具体做法是下面三步，以前没用git这么搞过，知道之后其实蛮简单
+    1. >git remote add geoffyoungs http://github.com/geoffyoungs/ruby-gmail.git
+    2. >git fetch geoffyoungs
+    3. >git merge geoffyoungs/master
+     
+    
+   
