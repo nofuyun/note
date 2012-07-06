@@ -8,7 +8,14 @@
 <?php endforeach;?>
 </select><br/>
 
-内容：<textarea rows="5" cols="10" name="content" id="content"><?php echo $arrBlogInfo['content']; ?></textarea><br/>
+内容：<textarea name="content" id="content" style="width: 510px;height: 300px;"><?php echo $arrBlogInfo['content']; ?></textarea><br/>
+  <link rel="stylesheet" href="/editor/skins/default.css" />
+       <script charset="utf-8" src="/editor/kindeditor.js"></script>
+       <script>
+    	KE.show({
+			id : 'content',
+		});
+       </script>
 <input type="submit" value="Submit"/>
 </form>
 </div>

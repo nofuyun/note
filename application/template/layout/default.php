@@ -47,7 +47,7 @@
 		 <div id="sidebar">
 
 					<?php if($nowMenu=='blog'):?>
-					<h1>技术分类</h1>
+					<h1>技术分类<a href="" style="font-size: 12px;margin-left: 10px; ">添加分类</a></h1>
 					<ul class="sidemenu">
 						<?php foreach ($arrBlogClass as $key=>$value):?>
 						<li><a href=""><?php echo $value['name'];?></a></li>

@@ -13,7 +13,7 @@ $.extend({
 	}
 });
 $(function(){
-	$("div[id^='record_']").toggle(
+	$("h1[id^='record_']").toggle(
 	    function(){
            var arrSplit=$(this).attr('id').split('_');
            var id=arrSplit[1];
@@ -29,8 +29,8 @@ $(function(){
 });
 </script>
 			<?php foreach ($arrBlog as $key=>$val):?>
-				 <div id="record_<?php echo $val['id'];?>">
-				 <h1><?php echo $val['id'].'.  '.$val['title'];?></h1>
+				 <div >
+				 <h1 id="record_<?php echo $val['id'];?>" style="cursor:pointer;"><?php echo $val['id'].'.  '.$val['title'];?></h1>
 				<p class="post-footer">					
 <!--					<a href="index.html" class="readmore">Read more</a>-->
 <!--					<a href="index.html" class="comments">Comments (7)</a>-->
